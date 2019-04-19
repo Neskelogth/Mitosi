@@ -1,2 +1,2 @@
 # Mitosi
-Un simulatore di mitosi fatto per diletto
+Un simulatore di mitosi fatto un po' così
